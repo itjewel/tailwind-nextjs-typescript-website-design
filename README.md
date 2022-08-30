@@ -16,3 +16,12 @@ tailwind-nextjs-typescript-website-design
 4) Accordion FAQ Componet Design
 5) Footer Component Design
 
+
+** Library Used **
+1) Form Validatoin: Formik
+2) Form Validation: Yup
+3) CSS Library:     Tailwind
+4) Browser Scrollbar: tailwind-scrollbar-hide
+5) Icon used:  react-icons
+6) Page Loading: nextjs-progressbar
+
